@@ -746,7 +746,7 @@ section.custom-timeline .timeline-box .experience-info .company > span {
 }
 .custom-testimonial-style-1 .testimonial-author {
 	position: relative;
-	margin: 19px 0 0 35px;
+	margin: 19px 0 0 -24px;
 }
 .custom-testimonial-style-1 .testimonial-author:before {
 	content: '';
