@@ -17,7 +17,7 @@ a:active {
 html .heading-primary,
 html .lnk-primary,
 html .text-color-primary {
-	color: #ffd93e !important;
+	color: #0073cf !important;
 }
 
 html .heading.heading-primary h1,
@@ -105,11 +105,11 @@ html .heading.heading-light h6 {
 }
 
 html .background-color-primary {
-	background-color: #ffd93e !important;
+	background-color: #88B04B !important;
 }
 
 html .background-color-secondary {
-	background-color: #ecf1f7 !important;
+	background-color: ##0073cf !important;
 }
 
 html .background-color-tertiary {
@@ -2901,7 +2901,7 @@ html[dir="rtl"] #header .tip.skin:before {
 }
 
 #header .header-btn-collapse-nav {
-	background: #ffd93e;
+	background: #0073cf;
 }
 
 @media (min-width: 992px) {
