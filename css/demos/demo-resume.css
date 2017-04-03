@@ -623,6 +623,11 @@ section.custom-timeline .timeline-box .experience-info .company > span {
 /*
 * Portfolio
 */
+
+.project-description {
+	padding: 19px 0px 0px 0px;
+}
+
 .custom-nav-sort.nav > li {
 	margin-right: 10px;
 }
