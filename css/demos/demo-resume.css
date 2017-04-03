@@ -65,7 +65,7 @@ section.section {
 	}
 }
 .custom-margin-bottom-1 {
-	margin-bottom: 50px !important;
+	margin-bottom: 15px !important;
 }
 
 @media (min-width: 992px) {
