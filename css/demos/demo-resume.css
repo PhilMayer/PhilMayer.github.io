@@ -248,7 +248,7 @@ section.section {
 		right: 0;
 		width: 100%;
 		height: 102%;
-		background: #ffd93e;
+		background: #88B04B;
 		z-index: -1;
 	}
 	#header.header-floating .header-nav-main nav > ul > li > a > span {
@@ -625,7 +625,7 @@ section.custom-timeline .timeline-box .experience-info .company > span {
 */
 
 .project-description {
-	padding: 19px 0px 0px 0px;
+	padding: 19px 0px 0px 0fpx;
 }
 
 .custom-nav-sort.nav > li {
